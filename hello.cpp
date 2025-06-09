@@ -6,5 +6,6 @@ int main() {
     int n;
     float xy;
     std:: cin>>n;
+    cout<<"sujith CSE";
     return 0;
 }
