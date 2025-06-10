@@ -7,6 +7,10 @@ int main() {
     float xy;
     std:: cin>>n;
     cout<<"sujith CSE";
-shbdkvjbdjk
+    for (int i = 0; i < count; i++)
+    {
+        /* code */
+    }
+    
     return 0;
 }
