@@ -1,9 +1,13 @@
 #include <iostream>
 #include <bits/stdc++.h>
-
-int main() {
+    
+    int quicksort(){
+        return 1;
+    }
+    int main() {
     std::cout << "Hello, World!" << std::endl;
     int n;
+    
     float xy;
     std:: cin>>n;
     cout<<"sujith CSE";
@@ -11,8 +15,6 @@ int main() {
     {
         /* code */
     }
-    int quicksort(){
-        return 1;
-    }
+    
     return 0;
 }
