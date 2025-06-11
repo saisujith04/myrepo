@@ -11,6 +11,8 @@ int main() {
     {
         /* code */
     }
-    
+    int quicksort(){
+        return 1;
+    }
     return 0;
 }
